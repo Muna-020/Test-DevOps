@@ -1,5 +1,6 @@
 ## 3. Server Management
-  
+
+
 + Pada tahap ini terlebih dahulu melakukan konfigurasi pada penggunaan firewall di kedua server untuk mengizinkan port-port yang dapat dipakai dalam mengakses suatu aplikasi maupun server.
 + Selanjutnya, menambahkan juga pada bagian security group di AWS EC2 untuk port-port yang digunakan.
 + Berikut gambaran tahap pengerjaan Server Management:
