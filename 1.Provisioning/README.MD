@@ -4,9 +4,8 @@
 Requirements: 
 + ansible
 + Server BiznetGio:
-     Appserver: 2GB RAM, 2 CPU
+     AWS: 4GB RAM, 2 CPU
      Gateway: 1GB RAM, 1 CPU
-     Registry-ahmad : 1GB RAM, 1 CPU
 ```
 
 + Pada tahap ini terlebih dahulu menyiapkan dua buah server yaitu server dari Aws dan Gateway.
