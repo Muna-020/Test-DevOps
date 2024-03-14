@@ -16,7 +16,7 @@ Requirements:
 
 ```yaml
 - name: Install Docker
-  hosts: biznet
+  hosts: 13.238.154.16
   become: true
   tasks:
     - name: Update apt package cache and install dependencies
@@ -61,7 +61,7 @@ Requirements:
 ```yaml
 
 - name: Generate Certbot for SSL
-  hosts: biznet
+  hosts: 13.238.154.16
   become: true
   
   tasks:
