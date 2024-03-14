@@ -3,7 +3,7 @@
 ```
 Requirements: 
 + ansible
-+ Server BiznetGio:
++ Server :
      AWS: 4GB RAM, 2 CPU
      Gateway: 1GB RAM, 1 CPU
 ```
