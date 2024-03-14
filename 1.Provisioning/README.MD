@@ -10,10 +10,8 @@ Requirements:
 
 + Pada tahap ini terlebih dahulu menyiapkan dua buah server yaitu server dari Aws dan Gateway.
 + memilih sebuah tools ansible sebagai untuk melakukan automation agar bisa menyediakan sarana yang dibutuhkan dalam pengerjaan deploy aplikasi
-+ setelah menyiapkan script yang dibutuhkan seperti membuat user baru dan konfigurasi otentikasi ssh, instalasi docker, instalasi cerbot dan  generate SSL, kemudian mengclone repository dari github yaitu repository untuk backend dan             frontend, membuat script untuk monitoring yang berjalan di docker compose, serta konfigurasi reverse proxy dengan nginx menggunakan docker compose.
-Provisiong menggunakan script ansible untuk :
-
-
++ kemudian menyiapkan script yang dibutuhkan seperti instalasi docker, instalasi cerbot dan generate SSL,
+```
 + Script penginstalan docker untuk kedua server
 
 ```yaml
