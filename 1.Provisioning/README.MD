@@ -11,7 +11,7 @@ Requirements:
 + Pada tahap ini terlebih dahulu menyiapkan dua buah server yaitu server dari Aws dan Gateway.
 + memilih sebuah tools ansible sebagai untuk melakukan automation agar bisa menyediakan sarana yang dibutuhkan dalam pengerjaan deploy aplikasi
 + kemudian menyiapkan script yang dibutuhkan seperti instalasi docker, instalasi cerbot dan generate SSL,
-```
+
 + Script penginstalan docker untuk kedua server
 
 ```yaml
